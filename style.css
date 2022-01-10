@@ -1,0 +1,29 @@
+body {
+    width: 250px;
+    height: 250px;
+    background-color: #89da59;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-self: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid white;
+    padding: 10px;
+}
+ button{
+     display: span;
+     border-radius: 10px;
+     border-color: white;
+     background-color: #399c00;
+     color: white;
+     width: fit-content;
+     padding: 5px 20px;
+     
+ }
